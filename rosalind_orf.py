@@ -33,7 +33,7 @@ def read_fasta(file_path):
                 sequences[current_header] += line
     return sequences
 
-file_path = "/Users/peterjohnson/Desktop/Davis/rosalind_exercises/rosalind_orf.fasta"
+file_path = "path_to_fasta"
 
 # function to translate DNA to protein
 def translate(seq):
