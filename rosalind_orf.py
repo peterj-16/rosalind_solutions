@@ -1,3 +1,5 @@
+# Written by Peter Johnson. 2024.
+
 import re 
 
 table = {
