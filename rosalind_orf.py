@@ -1,5 +1,5 @@
 # Written by Peter Johnson. 2024.
-# Program to return all protein sequences within DNA sequences in fasta format.
+# Program to return all protein sequences within DNA sequences in fasta format. Open reading frames (ORF) challenge in Rosalind platform (rosalind.info/problems). 
 
 import re 
 
