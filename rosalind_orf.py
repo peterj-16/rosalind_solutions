@@ -1,4 +1,5 @@
 # Written by Peter Johnson. 2024.
+# Program to return all protein sequences within DNA sequences in fasta format.
 
 import re 
 
